@@ -1,12 +1,63 @@
-# React + Vite
+# 🚀 Tech Studio Landing Page
+## 📷 Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 **[View Live Site](https://tech-studio-landing-page-six.vercel.app/)**
 
-Currently, two official plugins are available:
+A sleek, minimal, and fully responsive landing page for a modern Design-Tech Studio — built using **React.js**, **Tailwind CSS**, and **Vite**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Features
+
+- ⚡ **Fast and lightweight** (Vite-powered)
+- 🎯 **Fully responsive** on mobile and desktop
+- 🧠 Clean UI with scroll-based header animation
+- ✨ Subtle hover effects and micro-interactions
+- 🎨 Hero section with background image and overlay
+- 🧩 Modular code structure (React components)
+
+
+---
+
+## 🛠️ Technologies Used
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [Vercel](https://vercel.com/) (for deployment)
+
+---
+
+
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/anshsahu01/Tech-Studio-Landing-Page.git
+cd Tech-Studio-Landing-Page
+
+Install dependencies
+npm install
+npm run dev
+
+  
+
+---
+
+## 📁 Project Structure
+
+src/
+├── components/
+│ ├── Header.jsx
+│ ├── Hero.jsx
+│ ├── Services.jsx
+│ └── Contact.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
